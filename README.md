@@ -48,6 +48,14 @@
 
 ---
 
+## 📈 GitHub Contributions
+
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=Visweshwara&theme=github-dark&area=true&hide_border=true" alt="Contribution graph"/>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -59,7 +67,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Visweshwara/output/main/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
