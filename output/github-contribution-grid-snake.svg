@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="140" viewBox="0 0 720 140">
+  <rect width="720" height="140" rx="24" fill="#0B1220" />
+  <text x="36" y="34" fill="#00F7FF" font-family="Inter, sans-serif" font-size="24" font-weight="700">Contribution Snake</text>
+  <g transform="translate(40, 48)">
+    <rect width="640" height="72" rx="16" fill="#101826" />
+    <g fill="#16223A" stroke="#0C1221" stroke-width="1">
+      <rect x="8" y="8" width="22" height="22" />
+      <rect x="36" y="8" width="22" height="22" />
+      <rect x="64" y="8" width="22" height="22" />
+      <rect x="92" y="8" width="22" height="22" />
+      <rect x="120" y="8" width="22" height="22" />
+      <rect x="148" y="8" width="22" height="22" />
+      <rect x="176" y="8" width="22" height="22" />
+      <rect x="204" y="8" width="22" height="22" />
+      <rect x="232" y="8" width="22" height="22" />
+      <rect x="260" y="8" width="22" height="22" />
+      <rect x="288" y="8" width="22" height="22" />
+      <rect x="316" y="8" width="22" height="22" />
+      <rect x="344" y="8" width="22" height="22" />
+      <rect x="372" y="8" width="22" height="22" />
+      <rect x="400" y="8" width="22" height="22" />
+      <rect x="428" y="8" width="22" height="22" />
+      <rect x="456" y="8" width="22" height="22" />
+      <rect x="484" y="8" width="22" height="22" />
+      <rect x="512" y="8" width="22" height="22" />
+      <rect x="540" y="8" width="22" height="22" />
+      <rect x="568" y="8" width="22" height="22" />
+      <rect x="596" y="8" width="22" height="22" />
+      <rect x="624" y="8" width="22" height="22" />
+      <rect x="8" y="36" width="22" height="22" />
+      <rect x="36" y="36" width="22" height="22" />
+      <rect x="64" y="36" width="22" height="22" />
+      <rect x="92" y="36" width="22" height="22" />
+      <rect x="120" y="36" width="22" height="22" />
+      <rect x="148" y="36" width="22" height="22" />
+      <rect x="176" y="36" width="22" height="22" />
+      <rect x="204" y="36" width="22" height="22" />
+      <rect x="232" y="36" width="22" height="22" />
+      <rect x="260" y="36" width="22" height="22" />
+      <rect x="288" y="36" width="22" height="22" />
+      <rect x="316" y="36" width="22" height="22" />
+      <rect x="344" y="36" width="22" height="22" />
+      <rect x="372" y="36" width="22" height="22" />
+      <rect x="400" y="36" width="22" height="22" />
+      <rect x="428" y="36" width="22" height="22" />
+      <rect x="456" y="36" width="22" height="22" />
+      <rect x="484" y="36" width="22" height="22" />
+      <rect x="512" y="36" width="22" height="22" />
+      <rect x="540" y="36" width="22" height="22" />
+      <rect x="568" y="36" width="22" height="22" />
+      <rect x="596" y="36" width="22" height="22" />
+      <rect x="624" y="36" width="22" height="22" />
+      <rect x="8" y="64" width="22" height="22" />
+      <rect x="36" y="64" width="22" height="22" />
+      <rect x="64" y="64" width="22" height="22" />
+      <rect x="92" y="64" width="22" height="22" />
+      <rect x="120" y="64" width="22" height="22" />
+      <rect x="148" y="64" width="22" height="22" />
+      <rect x="176" y="64" width="22" height="22" />
+      <rect x="204" y="64" width="22" height="22" />
+      <rect x="232" y="64" width="22" height="22" />
+      <rect x="260" y="64" width="22" height="22" />
+      <rect x="288" y="64" width="22" height="22" />
+      <rect x="316" y="64" width="22" height="22" />
+      <rect x="344" y="64" width="22" height="22" />
+      <rect x="372" y="64" width="22" height="22" />
+      <rect x="400" y="64" width="22" height="22" />
+      <rect x="428" y="64" width="22" height="22" />
+      <rect x="456" y="64" width="22" height="22" />
+      <rect x="484" y="64" width="22" height="22" />
+      <rect x="512" y="64" width="22" height="22" />
+      <rect x="540" y="64" width="22" height="22" />
+      <rect x="568" y="64" width="22" height="22" />
+      <rect x="596" y="64" width="22" height="22" />
+      <rect x="624" y="64" width="22" height="22" />
+    </g>
+    <g fill="#20C997">
+      <rect x="40" y="40" width="20" height="20" rx="4" />
+      <rect x="60" y="40" width="20" height="20" rx="4" />
+      <rect x="80" y="40" width="20" height="20" rx="4" />
+      <rect x="100" y="40" width="20" height="20" rx="4" />
+      <rect x="120" y="40" width="20" height="20" rx="4" />
+      <rect x="140" y="40" width="20" height="20" rx="4" />
+    </g>
+    <circle cx="220" cy="52" r="10" fill="#FF4D4D" />
+  </g>
+  <text x="42" y="136" fill="#8F9BB3" font-family="Inter, sans-serif" font-size="12">Snake contribution visualization placeholder for README display.</text>
+</svg>

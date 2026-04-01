@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="180" viewBox="0 0 700 180">
+  <rect width="700" height="180" rx="24" fill="#0B1220" />
+  <text x="50" y="52" fill="#ffffff" font-family="Inter, sans-serif" font-size="28" font-weight="700">GitHub Trophies</text>
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="120" height="82" rx="16" fill="#151A2A" />
+    <path d="M60 18c-12 0-22 10-22 22v12h44v-12c0-12-10-22-22-22zm-14 44v12h28v-12H46z" fill="#FFD43B"/>
+    <circle cx="60" cy="12" r="8" fill="#FFEE95" />
+  </g>
+  <g transform="translate(240, 80)">
+    <rect x="0" y="0" width="120" height="82" rx="16" fill="#151A2A" />
+    <path d="M60 18c-12 0-22 10-22 22v12h44v-12c0-12-10-22-22-22zm-14 44v12h28v-12H46z" fill="#71D8FF"/>
+    <circle cx="60" cy="12" r="8" fill="#A3F6FF" />
+  </g>
+  <g transform="translate(430, 80)">
+    <rect x="0" y="0" width="120" height="82" rx="16" fill="#151A2A" />
+    <path d="M60 18c-12 0-22 10-22 22v12h44v-12c0-12-10-22-22-22zm-14 44v12h28v-12H46z" fill="#FF7CA3"/>
+    <circle cx="60" cy="12" r="8" fill="#FFB5D4" />
+  </g>
+  <text x="50" y="158" fill="#8F9BB3" font-family="Inter, sans-serif" font-size="14">A stable trophy panel replacement for GitHub profile display.</text>
+</svg>

@@ -51,7 +51,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Visweshwara&theme=tokyonight&no-frame=true"/>
+<img src="assets/github-trophies.svg" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Visweshwara/Visweshwara/output/github-contribution-grid-snake.svg"/>
+<img src="output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
