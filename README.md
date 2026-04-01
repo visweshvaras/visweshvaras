@@ -1,125 +1,85 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=2000&color=60E2FF&background=00000000&width=900&lines=Hi+%F0%9F%91%8B+I'm+Visweshwara+%7C+VLSI+Student+%26+AI+Web+Developer" alt="Typing Header" />
-
-  <p align="center">
-    <strong>Future-focused silicon learner building AI web products that feel polished and powerful.</strong><br />
-    <em>Exploring RTL, FPGA, prompt engineering, and modern deployment stacks to deliver real hardware + software impact.</em>
-  </p>
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- VLSI engineering student with a passion for Verilog, FPGA design, and digital system architecture
-- Building AI-powered web apps with clean UX, reusable tooling, and fast deployments
-- Actively learning RTL, synthesis, timing analysis, and hardware-aware software integration
-- Obsessed with quality, performance, and sharp engineering workflows
-
----
-
-## 🔗 Connect With Me
+<h1 align="center">Hi 👋, I'm Visweshwara</h1>
 
 <p align="center">
-  <a href="https://github.com/Visweshwara"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/Visweshwara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/Visweshwara"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:visweshwara@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=VLSI+Engineer;RTL+Designer;FPGA+Developer;Future+ASIC+Engineer;Verilog+%7C+SystemVerilog+%7C+FPGA"/>
 </p>
 
 ---
 
-## 🧠 Tech Stack
-
-### HDL & Programming
-<img src="https://img.shields.io/badge/Verilog-Expert-FFD600?style=for-the-badge&logo=verilog&logoColor=black" alt="Verilog" />
-<img src="https://img.shields.io/badge/SystemVerilog-Advanced-000000?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog" />
-<img src="https://img.shields.io/badge/C-Intermediate-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-
-### VLSI Tools & Simulation
-<img src="https://img.shields.io/badge/FPGA+Prototyping-Vivado-8A2BE2?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" />
-<img src="https://img.shields.io/badge/ModelSim-Simulation-111111?style=for-the-badge&logo=modelsim&logoColor=white" alt="ModelSim" />
-<img src="https://img.shields.io/badge/Timing+Analysis-STA-181B27?style=for-the-badge&logo=amd&logoColor=white" alt="STA" />
-
-### AI + Web Development
-<img src="https://img.shields.io/badge/AI+Web-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Prompt+Engineering-OpenAI-10B981?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Hosting-Cloudflare-0099FF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+## 🚀 About Me
+- 🔭 Working on **RTL & Digital IC Design**
+- 🧠 Passionate about **Semiconductors & VLSI**
+- ⚡ Designing hardware that becomes silicon
+- 🎯 Goal: ASIC Design Engineer
 
 ---
 
-## 🚀 Featured Work
+## 🧠 VLSI Skills
 
-- **RTL Design Collection** — Verilog-based FIFO / UART / CPU learning projects with clean documentation
-- **AI Web Dashboards** — fast prototypes combining AI prompts, charts, and deployment workflows
-- **FPGA Learning Lab** — practical synthesis and verification experiments for real hardware validation
-- **Prompt Engineering Hub** — reusable prompt templates for smart tools and automation
+### 🧩 Hardware Design
+![Verilog](https://img.shields.io/badge/Verilog-blue?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-red?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-orange?style=for-the-badge)
+![RTL](https://img.shields.io/badge/RTL%20Design-purple?style=for-the-badge)
+![Digital Design](https://img.shields.io/badge/Digital%20Electronics-green?style=for-the-badge)
+
+### 🛠 Tools
+![ModelSim](https://img.shields.io/badge/ModelSim-blue?style=for-the-badge)
+![GTKWave](https://img.shields.io/badge/GTKWave-black?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-red?style=for-the-badge)
+![Quartus](https://img.shields.io/badge/Intel%20Quartus-blue?style=for-the-badge)
+![Cadence](https://img.shields.io/badge/Cadence-yellow?style=for-the-badge)
+![Synopsys](https://img.shields.io/badge/Synopsys-grey?style=for-the-badge)
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![C](https://img.shields.io/badge/C-darkblue?style=for-the-badge)
+![TCL](https://img.shields.io/badge/TCL-orange?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Highlights
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Visweshwara&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Visweshwara&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Visweshwara&theme=tokyonight"/>
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Visweshwara&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=Visweshwara&theme=tokyonight&no-frame=true"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Visweshwara/output/main/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
-<div align="center" style="color:#A9F0FF; background:#0A0A0A; padding:18px; border-radius:16px; display:inline-block; text-align:left; line-height:1.4;">
-  <p><strong>Snake Animation</strong>: real moving contribution snake generated by GitHub Action.</p>
-  <p><strong>Score:</strong> Commits + PRs + Deploys</p>
-  <p><strong>Progress:</strong> AI Web + VLSI Study</p>
-  <p><strong>Goal:</strong> Build, Learn, Ship, Iterate</p>
-</div>
-
----
-
----
-
-## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Visweshwara&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://raw.githubusercontent.com/Visweshwara/Visweshwara/output/github-contribution-grid-snake.svg"/>
 </p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Visweshwara&theme=darkhub&no-frame=true&row=1" alt="Trophies" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- RTL design and FPGA prototyping
-- AI web applications and prompt-powered interfaces
-- Clean deployment pipelines and hosting automation
-- Learning digital design through practical projects
-
----
-
-## 💬 Quote
-
-> "Designing digital logic today, building silicon tomorrow."
 
 ---
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Visweshwara&color=blueviolet&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Visweshwara&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/></a>
+</p>
+
+---
+
+⭐ *Building the future of silicon systems*
