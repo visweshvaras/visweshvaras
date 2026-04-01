@@ -48,13 +48,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="assets/github-trophies.svg" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 👀 Profile Views
 
