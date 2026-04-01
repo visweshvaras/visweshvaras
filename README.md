@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=69FF94&background=00000000&width=900&lines=Visweshwara+%7C+VLSI+Architect+%26+Web+Innovator" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=69FF94&background=00000000&width=900&lines=Visweshwara+%7C+VLSI+Student+%26+AI+Web+Developer" alt="Typing Header" />
 
   <p align="center">
-    <strong>Building silicon-class systems with IP-grade precision</strong><br />
-    <em>From transistor-level RTL to web-native tooling, I architect future-proof hardware and developer experiences.</em>
+    <strong>Learning silicon systems while building AI-native web experiences</strong><br />
+    <em>From RTL labs to AI web apps, I’m growing as a hardware student with a passion for smart developer tooling.</em>
   </p>
 
   <p>
@@ -54,10 +54,11 @@
 
 ---
 
-## 🧬 Contribution Formula 1
+## 🏁 Contribution Formula 1
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1500&color=9BFFCF&background=00000000&width=850&lines=Contributions+%3D+%F0%9F%94%88+%28Commits+%2B+Reviews+%29+%2A+Velocity+%2B+Innovation" alt="Contribution Formula" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1200&color=9BFFCF&background=00000000&width=850&lines=%F0%9F%8F%81+Lap+1%3A+AI+Web+Design+%7C+Lap+2%3A+RTL+Study+%7C+Lap+3%3A+Build+%26+Deploy+%7C+Lap+4%3A+Review+%26+Optimize" alt="Contribution Formula 1" />
+  <p><strong>Race pace:</strong> Contributions = (Commits + Ideas + Deploys) × Learning + Speed</p>
 </div>
 
 ---
@@ -90,7 +91,7 @@
 
 **Why this profile stands out:**
 
-- Precision-driven VLSI mindset with an engineer-first hardware portfolio
-- Full-stack tooling expertise blended with modern web and AI workflows
-- Professional, futuristic layout built for top-tier hardware leadership
+- VLSI student energy focused on learning silicon design and AI web systems
+- AI web development expertise with modern prompt engineering and deployment skills
+- Professional, futuristic layout built for a top-tier hardware + web innovator
 - High-impact GitHub stats, streaks, trophies, and profile visibility
