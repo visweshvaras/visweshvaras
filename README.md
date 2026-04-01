@@ -1,50 +1,104 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=69FF94&background=00000000&width=900&lines=Visweshwara+%7C+VLSI+Student+%26+AI+Web+Developer" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=2000&color=60E2FF&background=00000000&width=900&lines=Hi+%F0%9F%91%8B+I'm+Visweshwara+%7C+VLSI+Student+%26+AI+Web+Developer" alt="Typing Header" />
 
   <p align="center">
-    <strong>Learning silicon systems while building AI-native web experiences</strong><br />
-    <em>From RTL labs to AI web apps, I’m growing as a hardware student with a passion for smart developer tooling.</em>
-  </p>
-
-  <p>
-    <a href="#vlsi-skills">VLSI</a> •
-    <a href="#web-development">Web Dev</a> •
-    <a href="#tools">Tools</a> •
-    <a href="#trophies">Trophies</a> •
-    <a href="#socials">Socials</a>
+    <strong>Future-focused silicon learner building AI web products that feel polished and powerful.</strong><br />
+    <em>Exploring RTL, FPGA, prompt engineering, and modern deployment stacks to deliver real hardware + software impact.</em>
   </p>
 </div>
 
 ---
 
-## 🔧 VLSI Skills
+## 👨‍💻 About Me
 
-<img src="https://img.shields.io/badge/RTL+Design-Verilog-informational?style=for-the-badge&logo=verilog&logoColor=white&color=101820" alt="Verilog" />
-<img src="https://img.shields.io/badge/SystemVerilog-Assertion-orange?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog" />
-<img src="https://img.shields.io/badge/ASIC+Flow-Synthesis-blue?style=for-the-badge&logo=siemens&logoColor=white" alt="ASIC" />
-<img src="https://img.shields.io/badge/FPGA+Prototyping-Vivado-purple?style=for-the-badge&logo=xilinx&logoColor=white" alt="FPGA" />
-<img src="https://img.shields.io/badge/Static+Timing-Analysis-black?style=for-the-badge&logo=tda&logoColor=white&color=171717" alt="STA" />
-<img src="https://img.shields.io/badge/Power+Optimization-RTL2.0?style=for-the-badge&logo=power&logoColor=white&color=3d5afe" alt="Power Optimization" />
+- VLSI engineering student with a passion for Verilog, FPGA design, and digital system architecture
+- Building AI-powered web apps with clean UX, reusable tooling, and fast deployments
+- Actively learning RTL, synthesis, timing analysis, and hardware-aware software integration
+- Obsessed with quality, performance, and sharp engineering workflows
 
 ---
 
-## 🛠️ Tools & Technologies
-
-<img src="https://img.shields.io/badge/Verilog-Expert-FFD600?style=for-the-badge&logo=verilog&logoColor=black" alt="Verilog" />
-<img src="https://img.shields.io/badge/Web+Development-JS-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Web Development" />
-<img src="https://img.shields.io/badge/Prompt+Engineering-ChatGPT-10B981?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/Web+Hosting-Cloudflare-0099FF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Web Hosting" />
-<img src="https://img.shields.io/badge/Video+Coding-OBS+Studio-1F1F1F?style=for-the-badge&logo=obsproject&logoColor=white" alt="Video Coding" />
-<img src="https://img.shields.io/badge/RTL+Verification-UVM-0C4C9C?style=for-the-badge&logo=universalverifiedmodel&logoColor=white" alt="UVM" />
-
----
-
-## 📊 GitHub Profile
+## 🔗 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Visweshwara&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Visweshwara&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="https://github.com/Visweshwara"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/Visweshwara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/Visweshwara"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:visweshwara@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+---
+
+## 🧠 Tech Stack
+
+### HDL & Programming
+<img src="https://img.shields.io/badge/Verilog-Expert-FFD600?style=for-the-badge&logo=verilog&logoColor=black" alt="Verilog" />
+<img src="https://img.shields.io/badge/SystemVerilog-Advanced-000000?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog" />
+<img src="https://img.shields.io/badge/C-Intermediate-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+
+### VLSI Tools & Simulation
+<img src="https://img.shields.io/badge/FPGA+Prototyping-Vivado-8A2BE2?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" />
+<img src="https://img.shields.io/badge/ModelSim-Simulation-111111?style=for-the-badge&logo=modelsim&logoColor=white" alt="ModelSim" />
+<img src="https://img.shields.io/badge/Timing+Analysis-STA-181B27?style=for-the-badge&logo=amd&logoColor=white" alt="STA" />
+
+### AI + Web Development
+<img src="https://img.shields.io/badge/AI+Web-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Prompt+Engineering-OpenAI-10B981?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Hosting-Cloudflare-0099FF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+
+---
+
+## 🚀 Featured Work
+
+- **RTL Design Collection** — Verilog-based FIFO / UART / CPU learning projects with clean documentation
+- **AI Web Dashboards** — fast prototypes combining AI prompts, charts, and deployment workflows
+- **FPGA Learning Lab** — practical synthesis and verification experiments for real hardware validation
+- **Prompt Engineering Hub** — reusable prompt templates for smart tools and automation
+
+---
+
+## 📊 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Visweshwara&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Visweshwara&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1200&color=58D68D&background=00000000&width=900&lines=%F0%9F%90%8D+Snake+Mode+%7C+Collect+Commits+%2B+Deploys+%2B+Ideas+%7C+Avoid+Bugs" alt="Contribution Snake" />
+</div>
+
+<pre style="color:#A9F0FF; background:#0A0A0A; padding:16px; border-radius:16px; text-align:left; line-height:1.3;">
+╔════════════════════════════════════════════════════════════╗
+║ 🐍  . . . . . . . . . . . . . . . . . . . . . . . . . . . . ║
+║ . . . . . . . 🍎 . . . . . . . . . . . . . . . . . . . . . . ║
+║ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ║
+║ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ║
+║ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ║
+╚════════════════════════════════════════════════════════════╝
+
+Score: Commits + PRs + Deploys
+Progress: AI Web + VLSI Study
+Goal: Build, Learn, Ship, Iterate
+</pre>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Visweshwara&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
 
 ## 🏆 Trophies
 
@@ -54,44 +108,23 @@
 
 ---
 
-## 🏁 Contribution Formula 1
+## 🎯 Current Focus
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1200&color=9BFFCF&background=00000000&width=850&lines=%F0%9F%8F%81+Lap+1%3A+AI+Web+Design+%7C+Lap+2%3A+RTL+Study+%7C+Lap+3%3A+Build+%26+Deploy+%7C+Lap+4%3A+Review+%26+Optimize" alt="Contribution Formula 1" />
-  <p><strong>Race pace:</strong> Contributions = (Commits + Ideas + Deploys) × Learning + Speed</p>
-</div>
-
----
-
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Visweshwara&color=green&style=flat-square" alt="Profile views" />
-</p>
+- RTL design and FPGA prototyping
+- AI web applications and prompt-powered interfaces
+- Clean deployment pipelines and hosting automation
+- Learning digital design through practical projects
 
 ---
 
-## 🌐 Socials
+## 💬 Quote
 
-<p align="center">
-  <a href="https://github.com/Visweshwara"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/Visweshwara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/Visweshwara"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://dev.to/Visweshwara"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-  <a href="mailto:visweshwara@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+> "Designing digital logic today, building silicon tomorrow."
 
 ---
 
-## 🌙 Dark Mode Aesthetic
+## 👀 Profile Views
 
 <p align="center">
-  <img width="100%" src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80" alt="Dark Tech" />
+  <img src="https://komarev.com/ghpvc/?username=Visweshwara&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
-
-**Why this profile stands out:**
-
-- VLSI student energy focused on learning silicon design and AI web systems
-- AI web development expertise with modern prompt engineering and deployment skills
-- Professional, futuristic layout built for a top-tier hardware + web innovator
-- High-impact GitHub stats, streaks, trophies, and profile visibility
